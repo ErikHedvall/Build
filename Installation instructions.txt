@@ -2,4 +2,5 @@
 
 Installation Instructions
 
-1) Run the .exe
+1) Connect Oculus Rift DK2
+2) Run the .exe
